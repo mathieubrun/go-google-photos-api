@@ -1,6 +1,8 @@
 # go-google-photos-api
 
-I got frustrated not having official google photos api, so I code generated mine, based on the last version : https://github.com/googleapis/google-api-go-client/blob/10267775243d8c189ce96dc29556e9673459e6f3/photoslibrary/v1/photoslibrary-gen.go
+I got frustrated not having official google photos api, so I code generated mine, based on the last version of the discovery document : https://photoslibrary.googleapis.com/$discovery/rest?version=v1
+
+Client code based on googleapis last version, before it got removed : https://github.com/googleapis/google-api-go-client/blob/10267775243d8c189ce96dc29556e9673459e6f3/photoslibrary/v1/photoslibrary-gen.go
 
 ## usage
 
